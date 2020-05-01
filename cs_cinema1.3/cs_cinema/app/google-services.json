@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "256647753423",
+    "project_id": "neon-radius-185409"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256647753423:android:95d09b569ee8c312",
+        "android_client_info": {
+          "package_name": "com.hku.cs_cinema"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256647753423-rmtgem38sr5jgr8tdrvqs9i0nfofrl56.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "256647753423-cfese438r84cl96bpfh81hgik9a0cqbl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hku.cs_cinema",
+            "certificate_hash": "3c7a435e636b4debf2f42156e217deba395ab2ed"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZvOt9sZtQ3WeHGAKFS2eYW6xGsmkRrlM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
